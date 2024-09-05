@@ -5,11 +5,13 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: titus.bundi@agencify.insure
-    password: 380926titus
+    username: murithititus510@gmail.com
+    password: eokb jcuy mgtl tswm
     properties:
-      mail.smtp.starttls.enable: true
       mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+
+
 
 
 
