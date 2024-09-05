@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: visitoron
+
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: titus.bundi@agencify.insure
+    password: 380926titus
+    properties:
+      mail.smtp.starttls.enable: true
+      mail.smtp.auth: true
+
+
+
+server:
+  port: 60900
